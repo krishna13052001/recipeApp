@@ -8,6 +8,7 @@ function Other() {
             </h1>
             <p className="heading"> Deployed Websites</p>
             <ul className="web-links">
+                <li><strong><a href="https://jvskrishna.netlify.app/" target="_blank" rel="noreferrer">Portofolio</a></strong></li>
                 <li><strong><a href="https://shubhamasthu.herokuapp.com/" target="_blank" rel="noreferrer">shubhamasthu Copoun cms</a></strong></li>
                 <li><strong><a href="https://subhamasthu-krishna.herokuapp.com/" target="_blank" rel="noreferrer">Subhamasthu Intro</a></strong></li>
                 <li><strong><a href="https://covid19trackerindia-krishna.herokuapp.com/" target="_blank" rel="noreferrer">Covid 19 India cases Report</a></strong></li>
@@ -18,6 +19,7 @@ function Other() {
                 <li><strong><a href="https://covid19casesreport.herokuapp.com/" target="_blank" rel="noreferrer">Covid 19 State wise and distrct</a></strong></li>
                 <li><strong><a href="https://jobdetailsapp.herokuapp.com/" target="_blank" rel="noreferrer">Job Details</a></strong></li>
                 <li><strong><a href="https://krishna13052001.github.io/MyFirstWebSite/" target="_blank" rel="noreferrer">My First Web site :)</a></strong></li>
+                <li><strong><a href="http://dancestudio.infinityfreeapp.com/" target="_blank" rel="noreferrer">Dance Studio</a></strong></li>
             </ul>
         </section>
     );
